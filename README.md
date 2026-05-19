@@ -10,6 +10,7 @@ Objectives
 - Map business processes into technical systems
 
 System Workflow
+
 Customer places order → Payment processed → Inventory updated → Data stored in database
 
 Tools Used
