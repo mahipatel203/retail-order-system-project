@@ -25,4 +25,5 @@ Key Learning Outcomes
 - SQL query writing for analysis
 
 Author
+
 BTM Student exploring Business Technology & Systems Analysis in retail enviroments
